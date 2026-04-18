@@ -26,6 +26,8 @@ submit.addEventListener('click',(event)=>{
     }else{
         password.style.border='none'
     }
-  
+  if(firstname.value!=='' && lastname.value!=='' && email.value!=='' && password.value!==''){
+   location.href='https://imam-programmer.github.io/dark-light-E-commerce/'
+  }
    
 })
