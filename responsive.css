@@ -1,9 +1,9 @@
 @media (min-width:300px) and (max-width:575px) {
-    .container {
-    width: 215px;
-    padding: 10px 16px;
+.container {
+    width: 77%;
+    padding: 17px 16px;
     margin-top: 25px;
-  
+    border-radius: 20px;
 }
 h1 {
     font-size: 25px;
@@ -16,10 +16,10 @@ h1 {
 }
 @media (min-width:576px) and (max-width:767px) {
 .container {
-    padding: 15px 40px;
+    padding: 25px 40px;
     margin-top: 30px;
     margin-bottom: 30px;
-  
+    border-radius: 20px;
 }
     
 }
@@ -27,7 +27,7 @@ h1 {
 .container {
     margin-top: 30px;
     margin-bottom: 30px;
-  
+    border-radius: 20px;
 }
     
 }
